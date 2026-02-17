@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-public",
+  "version": "1.0.0",
+  "description": "Plantilla pública fácil de usar para Discord.js v14",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.1.0"
+  }
+}
